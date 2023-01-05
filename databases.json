@@ -1,0 +1,266 @@
+[
+    {
+        "name": "oracle",
+        "developer": "Oracle",
+        "type": "relational",
+        "licenses": 
+        
+            [{
+                "license": "commercial",
+                "from": 1980,
+                "to": 2022
+            }]
+        
+    },
+    {
+        "name": "mysql",
+        "type": "relational",
+        "developer": "Oracle",        
+        "licenses": 
+            [{
+                "license": "GPLv2",
+                "from": 1995,
+                "to": 2022
+    }]
+        
+    },
+    {
+        "name": "Microsoft SQL",
+        "type": "relational",
+        "developer": "Microsoft",        
+        "licenses": 
+            [{
+                "license": "commercial",
+                "from": 1989,
+                "to": 2022
+            }]
+        
+    },
+    {
+        "name": "MongoDB",
+        "type": "document",
+        "developer": "MongoDB, Inc.",
+
+        "licenses": [
+                {
+                    "license": "AGPLv3",
+                    "from": 2009,
+                    "to": 2018
+                },
+                {
+                    "license": "SSPLv1",
+                    "from": 2018,
+                    "to": 2022
+                }
+            ]
+        
+    },
+    {
+        "name": "Amazon DynamoDB",
+        "developer": "Amazon",        
+        "type": "document",
+        "licenses": 
+            [{
+                "license": "commercial",
+                "from": 1989,
+                "to": 2022
+            }]
+        
+    },
+    {
+        "name": "Databricks",
+        "type": "document",
+        "developer": "Databricks",        
+        "licenses": 
+            [{
+                "license": "Apachev2",
+                "from": 2013,
+                "to": 2022
+            }]
+        
+    },
+    {
+        "name": "Redis",
+        "developer": "Redis Inc",
+        "type": "keyvalue",
+        "licenses": 
+            [{
+                "license": "BSD3c",
+                "from": 2009,
+                "to": 2022
+        }]
+        
+    },
+    {
+        "name": "Memcached",
+        "developer": "Danga Interactive",        
+        "type": "keyvalue",
+        "licenses": 
+            [{
+                "license": "BSD3c",
+                "from": 2003,
+                "to": 2022
+            }
+            ]
+        
+    },
+    {
+        "name": "Hazelcast",
+        "developer": "Hazelcast",
+        "type": "keyvalue",
+        "licenses": 
+            [{
+                "license": "Apachev2",
+                "from": 2008,
+                "to": 2022
+            
+        }]
+        
+    },
+    {
+        "name": "Elasticsearch (1)",
+        "developer": "Elastic",
+        "type": "searchengine",
+        "licenses": 
+            [{
+                "license": "Apachev2",
+                "from": 2010,
+                "to": 2021
+            },
+            {
+                "license": "SSPLv1",
+                "from": 2021,
+                "to": 2022   
+            }
+            ]
+        
+    },    
+    {
+        "name": "Elasticsearch (2)",
+        "developer": "Elastic",
+        "type": "searchengine",
+        "licenses": 
+            [{
+                "license": "Elasticv1",
+                "from": 2019,
+                "to": 2021
+            },
+            {
+                "license": "Elasticv2",
+                "from": 2021,
+                "to": 2022   
+            }
+            ]
+        
+    }, 
+    
+    {
+        "name": "Splunk",
+        "developer": "Splunk Inc.",
+        "type": "searchengine",
+        "licenses": 
+            [{
+                "license": "commercial",
+                "from": 2003,
+                "to": 2022
+            
+        }]
+        
+    },   
+    {
+        "name": "Solr",
+        "developer": "Apache Software Foundation",
+        "type": "searchengine",
+        "licenses": 
+            [{
+                "license": "Apachev1",
+                "from": 2003,
+                "to": 2004
+            
+        },
+        {
+            "license": "Apachev2",
+            "from": 2004,
+            "to": 2022
+        
+    }
+    ]
+        
+    },
+        {
+        "name": "Cassandra",
+        "developer": "Apache Software Foundation",
+        "type": "widecolumn",
+        "licenses": 
+            [{
+            "license": "Apachev2",
+            "from": 2008,
+            "to": 2022
+        }]
+        
+    },
+        {
+        "name": "HBase",
+        "developer": "Apache Software Foundation",
+        "type": "widecolumn",
+        "licenses": 
+            [{
+            "license": "Apachev2",
+            "from": 2008,
+            "to": 2022
+        }]
+        
+    },
+        {
+        "name": "Datastax Enterprise",
+        "developer": "DataStax",
+        "type": "widecolumn",
+        "licenses": 
+            [{
+            "license": "commercial",
+            "from": 2011,
+            "to": 2022
+        }]
+        
+    },
+        {
+        "name": "Neo4j",
+        "developer": "Neo4j, Inc.",
+        "type": "graph",
+        "licenses": 
+            [{
+            "license": "GPLv3",
+            "from": 2007,
+            "to": 2022
+        }]
+        
+    },
+       
+        {
+        "name": "Microsoft Azure CosmosDB",
+        "developer": "Microsoft",
+        "type": "graph",
+        "licenses": 
+            [{
+            "license": "commercial",
+            "from": 2014,
+            "to": 2022
+        }]
+        
+    },
+       
+        {
+        "name": "ArangoDB",
+        "developer": "ArangoDB Inc.",
+        "type": "graph",
+        "licenses": 
+            [{
+            "license": "Apachev2",
+            "from": 2012,
+            "to": 2022
+        }]
+        
+    }
+        
+             
+]
